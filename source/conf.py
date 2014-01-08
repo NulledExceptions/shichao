@@ -11,7 +11,6 @@
 # All configuration values have a default; values that are commented out
 # serve to show the default.
 
-import sys, os
 import sphinx_bootstrap_theme
 
 # If extensions (or modules to document with autodoc) are in another directory,
@@ -101,9 +100,9 @@ html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 html_theme_options = {
     "sidebarwidth": 180,
     'navbar_links': [
-        ('Resume','resume'),
-        ('Projects','projects'),
-        ('Contact','contact'),
+        ('Resume', 'resume'),
+        ('Projects', 'projects'),
+        ('Contact', 'contact'),
         ('About', 'about'),
     ],
     'navbar_pagenav': False,
@@ -146,7 +145,7 @@ html_static_path = ['_static']
 #html_use_smartypants = True
 
 # Custom sidebar templates, maps document names to template names.
-html_sidebars = {'**':['photo.html', 'localtoc.html']}
+html_sidebars = {'**': ['photo.html', 'localtoc.html']}
 
 # Additional templates that should be rendered to pages, maps page names to
 # template names.
@@ -165,7 +164,7 @@ html_sidebars = {'**':['photo.html', 'localtoc.html']}
 #html_show_sourcelink = True
 
 # If true, "Created using Sphinx" is shown in the HTML footer. Default is True.
-html_show_sphinx = False 
+html_show_sphinx = False
 
 # If true, "(C) Copyright ..." is shown in the HTML footer. Default is True.
 #html_show_copyright = True
@@ -185,21 +184,21 @@ htmlhelp_basename = 'docdoc'
 # -- Options for LaTeX output --------------------------------------------------
 
 latex_elements = {
-# The paper size ('letterpaper' or 'a4paper').
-#'papersize': 'letterpaper',
+    # The paper size ('letterpaper' or 'a4paper').
+    #'papersize': 'letterpaper',
 
-# The font size ('10pt', '11pt' or '12pt').
-#'pointsize': '10pt',
+    # The font size ('10pt', '11pt' or '12pt').
+    #'pointsize': '10pt',
 
-# Additional stuff for the LaTeX preamble.
-#'preamble': '',
+    # Additional stuff for the LaTeX preamble.
+    #'preamble': '',
 }
 
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'doc.tex', u'doc Documentation',
-   u'Shichao An', 'manual'),
+    ('index', 'doc.tex', u'doc Documentation',
+     u'Shichao An', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -242,9 +241,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'doc', u'doc Documentation',
-   u'Shichao An', 'doc', 'One line description of project.',
-   'Miscellaneous'),
+    ('index', 'doc', u'doc Documentation', u'Shichao An', 'doc',
+     'One line description of project.', 'Miscellaneous'),
 ]
 
 # Documents to append as an appendix to all manuals.
