@@ -2,7 +2,9 @@
 {%- set rellinks = [] %}
 {#{%- set css_files = css_files + ["http://fonts.googleapis.com/css?family=Open+Sans"] %}#} 
 {% set bootswatch_css_custom = ['_static/custom.css'] %}
-{%- set metatags = "<meta name=\"viewport\" content=\"width=600\">"|safe %}
+{%- set metatags = '<meta name="viewport" content="width=600" />\n'|safe %}
+{%- set metatags = metatags + '    <meta name="description" content="Personal site of Shichao An, graduate student in Computer Science at Courant Institute of Mathematical Sciences, New York University." />\n'|safe %}
+{%- set metatags = metatags + '    <meta name="keywords" content="shichao an" />\n'|safe %}
 {% block rootrellink %}
     <li><a href="index.html">Home</a> |</li>
     <li><a href="resume.html">Resume</a> |</li>
