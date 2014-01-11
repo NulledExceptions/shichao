@@ -19,7 +19,6 @@ Projects
 	* Social networking website where users can socialize by "geo-finding" events, groups and other users
 	* Django, MongoDB and Bootstrap
 	* APIs of Meetup, Google Maps, Google Geocoding and Facebook Login
-	* Apache/mod_wsgi under virtualenv
 
 .. container:: section
 
