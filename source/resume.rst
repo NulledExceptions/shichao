@@ -4,105 +4,105 @@ Resume
 
 .. container:: subtitle
 
-	`Download </_static/shichao_an.pdf>`_
+    `Download </_static/shichao_an.pdf>`_
 
 Education
 =========
 .. container:: section
 
-	New York University, 2012 -- present
+    New York University, 2012 -- present
 
 .. container:: subtitle
 
-	M.S. Candidate in Computer Science
+    M.S. Candidate in Computer Science
 
 .. container:: subtitle 
 
-	Courses: Programming Languages, Fundamental Algorithms, Principles of Software Security, Operating Systems, Database Systems, Social Networks
+    Courses: Programming Languages, Fundamental Algorithms, Principles of Software Security, Operating Systems, Database Systems, Social Networks
 
 .. container:: section
 
-	University of Science and Technology Beijing, 2008 -- 2012
+    University of Science and Technology Beijing, 2008 -- 2012
 
 .. container:: subtitle
 
-	B.S. in Computer Science
+    B.S. in Computer Science
 
 Experience
 ==========
 .. container:: section
 
-	`SIGNL <http://signl.com/>`_
+    `SIGNL <http://signl.com/>`_
 
 .. container:: sublist
-	
-	* Software Development Intern
+    
+    * Software Development Intern
 
 .. container:: section
 
-	China Unicom
+    China Unicom
 
 .. container:: sublist
-	
-	* Intern, Operation and Maintenance Department
+    
+    * Intern, Operation and Maintenance Department
 
 .. container:: section
 
-	China International Telecommunication Construction Corporation
+    China International Telecommunication Construction Corporation
 
 .. container:: sublist
-	
-	* Network Administrator Intern
+    
+    * Network Administrator Intern
 
 .. container:: section
 
-	iBeiKe.com
+    iBeiKe.com
 
 .. container:: sublist
 
-	* Former Vice-Director, Department of Network
-	* Webmaster of `iBeiKe Wiki <http://wiki.ibeike.com/>`_
-	* Programmer
+    * Former Vice-Director, Department of Network
+    * Webmaster of `iBeiKe Wiki <http://wiki.ibeike.com/>`_
+    * Programmer
 
 Skills
 ======
 .. container:: section
 
-	Programming Languages
+    Programming Languages
 
 .. container:: sublist
-	
-	Python, C, bash scripting, JavaScript, PHP, Perl, ML, Scala
+    
+    Python, C, bash scripting, JavaScript, PHP, Perl, ML, Scala
 
 .. container:: section
 
-	Operating Systems
+    Operating Systems
 
 .. container:: sublist
 
-	* GNU/Linux (Ubuntu/RHEL)
-	* OS X
+    * GNU/Linux (Ubuntu/RHEL)
+    * OS X
 
 .. container:: section
 
-	Software, Web Development, and Database
+    Software, Web Development, and Database
 
 .. container:: sublist
-	
-	* LaTeX, Git, Sphinx, Vim
-	* Redis, Celery
-	* Django, CodeIgniter, WordPress
-	* MySQL, Oracle, MongoDB
+    
+    * LaTeX, Git, Sphinx, Vim
+    * Redis, Celery
+    * Django, CodeIgniter, WordPress
+    * MySQL, Oracle, MongoDB
 
 Activities
 ==========
 .. container:: section
 
-	`Seminar on Wikipedia, iBeiKe Wiki and Internet resources <http://home.ibeike.com/index.php?option=com_content&view=article&id=423:2010-12-10-08-48-03&catid=59:2010-10-02-19-20-39&Itemid=217>`_ at USTB (Beijing, China)
+    `Seminar on Wikipedia, iBeiKe Wiki and Internet resources <http://home.ibeike.com/index.php?option=com_content&view=article&id=423:2010-12-10-08-48-03&catid=59:2010-10-02-19-20-39&Itemid=217>`_ at USTB (Beijing, China)
 
 .. container:: sublist
 
-	Speaker
+    Speaker
 
 .. toctree::
    :maxdepth: 2

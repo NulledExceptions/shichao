@@ -1,7 +1,7 @@
 .. doc documentation master file, created by
-   sphinx-quickstart on Fri Mar 15 19:30:49 2013.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+    sphinx-quickstart on Fri Mar 15 19:30:49 2013.
+    You can adapt this file completely to your liking, but it should at least
+    contain the root `toctree` directive.
 
 Welcome
 *******
@@ -24,4 +24,4 @@ I attend the following meetup groups:
 
 
 .. toctree::
-   :maxdepth: 2
+    :maxdepth: 2
