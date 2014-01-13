@@ -7,7 +7,6 @@
 source remote.sh
 
 # Run commands on the remote host
-session_name="shichao-an.info"
 logfile="post-commit.log"
 projectdir="shichao-an.info"
 ssh -t $remote_username@$remote_hostname "cd $projectdir; make html &>> $logfile"
