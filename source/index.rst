@@ -9,7 +9,8 @@ I am Shichao An, a graduate student in Computer Science at the `Courant Institut
 
 Interest
 ========
-* Free and Open Source Software (FOSS)
+I am enthusiastic about Free and Open Source Software (FOSS):
+
 * GNU/Linux
 * Python
 * `MediaWiki <http://www.mediawiki.org/wiki/MediaWiki>`_ and `Wikipedia <http://www.wikipedia.org/>`_
