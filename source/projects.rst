@@ -2,6 +2,22 @@ Projects
 ********
 .. container:: section
 
+    `Twitter Photos <https://github.com/shichao-an/twitter-photos>`_
+
+.. container:: sublist
+
+    * Full-featured command-line tool to get photos from Twitter accounts
+
+.. container:: section
+
+    `SoundMeter <https://github.com/shichao-an/soundmeter>`_
+
+.. container:: sublist
+
+    * Command-line tool to obtain sound power in real time for machines that ship with audio input devices
+
+.. container:: section
+
     `GeoPort <http://geoport.co>`_
 
 .. container:: sublist
