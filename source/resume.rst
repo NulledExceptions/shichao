@@ -18,7 +18,7 @@ Education
 
 .. container:: subtitle 
 
-    Courses: Programming Languages, Fundamental Algorithms, Principles of Software Security, Operating Systems, Database Systems, Social Networks
+    Courses: Programming Languages, Fundamental Algorithms, Operating Systems, Database Systems, Cloud Computing, Open Source Tools, Multicore Processors
 
 .. container:: section
 
