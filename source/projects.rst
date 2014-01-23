@@ -6,16 +6,8 @@ Projects
 
 .. container:: sublist
 
-    * Django-based geo-social platform
-
-.. container:: section
-
-    `LAN Sync over SSH <https://github.com/moleculea/lan-sync-over-ssh>`_
-
-.. container:: sublist
-
-    * Small script to sync and backup file from a host to a Mac machine on the LAN over SSH
-    * Based on either local DNS server or hosts file
+    * Django-based geo-social platform that facilitates event-based real-time location sharing
+    * APIs of Google Maps and Google Geocoding
 
 .. container:: section
 
@@ -23,9 +15,7 @@ Projects
 
 .. container:: sublist
 
-    * Social networking website where users can socialize by "geo-finding" events, groups and other users
-    * Django, MongoDB and Bootstrap
-    * APIs of Meetup, Google Maps, Google Geocoding and Facebook Login
+    * Google Maps "window" for `Meetup <http://www.meetup.com/>`_
 
 .. container:: section
 
@@ -43,15 +33,6 @@ Projects
 
     * FIPA-compliant XMPP-based multi-agent system prototype for scheduling meeting in distributed environment
     * Python, `SPADE <https://github.com/javipalanca/spade>`_, and Django `[1] <https://github.com/moleculea/dms_spade>`_ `[2] <https://github.com/moleculea/dms_django>`_
-
-.. container:: section
-
-    USTB Encyclopedic Search System
-
-.. container:: sublist
-
-    * Content indexing and searching platform
-    * PHP (CodeIgniter), Python (backend), DOM, XML
 
 
 .. toctree::
