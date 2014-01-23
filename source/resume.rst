@@ -72,7 +72,8 @@ Skills
 
 .. container:: sublist
     
-    Python, C, bash scripting, JavaScript, PHP, Perl, ML, Scala
+    * **Proficient**: Python, C, JavaScript, shell scripting
+    * **Intermediate**: Java, C++, PHP, Ruby, Perl
 
 .. container:: section
 
@@ -85,14 +86,22 @@ Skills
 
 .. container:: section
 
+    Development Tools
+
+.. container:: sublist
+    
+    * Vim, Sublime Text, Git/GitHub
+
+.. container:: section
+
     Software, Web Development, and Database
 
 .. container:: sublist
     
-    * LaTeX, Git, Sphinx, Vim
-    * Redis, Celery
-    * Django, CodeIgniter, WordPress
-    * MySQL, Oracle, MongoDB
+    * **Document**: LaTeX, Sphinx
+    * **Frameworks**: Django, CodeIgniter, WordPress
+    * **Database**: MySQL, Oracle, MongoDB, Redis
+    * **Services**: Amazon Web Services, Travis CI
 
 Activities
 ==========
