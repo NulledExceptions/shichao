@@ -1,6 +1,6 @@
 About
 =======
-This is the profile website of Shichao An. This site is created using `Sphinx <http://sphinx-doc.org/>`_. If you encounter technical issues or have questions about the site itself, please email:
+This is the profile website of Shichao An. This site is created using `Sphinx <http://sphinx-doc.org/>`_ and is hosted on `GitHub Pages <http://pages.github.com/>`_. You can view `the source code of this site <https://github.com/shichao-an/shichao-an.info>`_ on GitHub. If you encounter technical issues or have questions about the site itself, please email:
 
 .. container:: subtitle
 
