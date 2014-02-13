@@ -56,7 +56,7 @@ Experience
 
 .. container:: section
 
-    iBeiKe.com
+    `iBeiKe.com <http://www.ibeike.com/>`_
 
 .. container:: sublist
 
