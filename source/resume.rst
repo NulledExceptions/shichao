@@ -32,6 +32,14 @@ Experience
 ==========
 .. container:: section
 
+    `Courant Institute of Mathematical Sciences <http://www.cims.nyu.edu/>`_, New York University
+
+.. container:: sublist
+    
+    * Teaching Assistant
+
+.. container:: section
+
     `SIGNL <http://signl.com/>`_
 
 .. container:: sublist
