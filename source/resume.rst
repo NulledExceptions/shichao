@@ -111,6 +111,13 @@ Skills
     * **Database**: MySQL, Oracle, MongoDB, Redis
     * **Services**: Amazon Web Services, Travis CI
 
+Certifications
+==============
+.. container:: section
+
+    Red Hat Certified System Administrator (RHCSA)
+
+
 Activities
 ==========
 .. container:: section
