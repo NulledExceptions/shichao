@@ -81,7 +81,7 @@ Skills
 .. container:: sublist
     
     * **Proficient**: Python, C, shell scripting
-    * **Intermediate**: JavaScript, Java, C++, PHP, Perl
+    * **Intermediate**: JavaScript, Java, PHP, Perl
 
 .. container:: section
 
