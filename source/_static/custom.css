@@ -1,6 +1,7 @@
+@import url('http://fonts.googleapis.com/css?family=Open+Sans');
 body{
-  /* font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; */
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
   font-weight: 300;
 }
 
@@ -16,8 +17,8 @@ h6,
 .h4,
 .h5,
 .h6 {
-  /* font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; */
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
 }
 
 .footer {
