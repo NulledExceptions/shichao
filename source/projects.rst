@@ -18,6 +18,14 @@ Projects
 
 .. container:: section
 
+    `Python and Parallel Programming <https://github.com/shichao-an/PPP>`_
+
+.. container:: sublist
+
+    * Compared and analyzed parallelism in CPU-bound, I/O-bound and memory-bound applications implemented with threading, multiprocessing of the standard library, and OpenMP/Cython
+
+.. container:: section
+
     `GeoPort <http://geoport.co>`_
 
 .. container:: sublist
