@@ -109,6 +109,7 @@ Skills
     * **Document**: LaTeX, Sphinx
     * **Frameworks**: Django, CodeIgniter, WordPress
     * **Database**: MySQL, Oracle, MongoDB, Redis
+    * **Testing**: Selenium, Nose, Tox
     * **Services**: Amazon Web Services, Travis CI
 
 Certifications
