@@ -89,7 +89,7 @@ Skills
 
 .. container:: sublist
 
-    * GNU/Linux (Ubuntu/RHEL)
+    * GNU/Linux (Fedora/RHEL/Ubuntu)
     * OS X
 
 .. container:: section
