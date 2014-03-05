@@ -22,7 +22,7 @@ Projects
 
 .. container:: sublist
 
-    * Compared and analyzed parallelism in CPU-bound, I/O-bound and memory-bound applications implemented with *threadingi*, *multiprocessingi* of the standard library, and OpenMP/Cython
+    * Compared and analyzed parallelism in CPU-bound, I/O-bound and memory-bound applications implemented with *threading*, *multiprocessing* of the standard library, and OpenMP/Cython
 
 .. container:: section
 
