@@ -1,5 +1,3 @@
-deploy.sh
-remote.sh
 build
 .DS_Store
 *.swp

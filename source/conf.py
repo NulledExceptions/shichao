@@ -104,6 +104,7 @@ html_theme_options = {
         ('Projects', 'projects'),
         ('Contact', 'contact'),
         ('About', 'about'),
+        ('Blog', '/blog/', 1),
     ],
     'navbar_pagenav': False,
     'source_link_position': "footer",
