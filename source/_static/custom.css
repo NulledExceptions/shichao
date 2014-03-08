@@ -53,15 +53,15 @@ ul ul
   margin: 0;
 }
 
-.section.container{
+.section.container {
   font-weight:bold;
   margin: 1em 0 0.5em 0.5em;
 }
 
-.subtitle.container{
+.subtitle.container {
   margin: 0.5em 0 0.5em 2em;
 }
 
-.sublist.container{
+.sublist.container {
   margin: 0.5em 0 0.5em 1.2em;
 }
