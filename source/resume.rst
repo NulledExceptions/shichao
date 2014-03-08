@@ -118,6 +118,10 @@ Certifications
 
     Red Hat Certified System Administrator (RHCSA)
 
+.. container:: section
+
+    Red Hat Red Hat Certified Engineer (RHCE)
+
 
 Activities
 ==========
