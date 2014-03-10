@@ -34,7 +34,7 @@ Social
 
     .. raw:: html
 
-            <a href="https://www.facebook.com/shichao.an.1"><img src="/_static/facebook_icon.png" width="42px" alt="Facebook" title="View Shichao An's profile on Facebook"/></a>&nbsp;<a href="http://www.linkedin.com/in/shichaoan"><img src="/_static/linkedin_icon.png" width="42px" alt="LinkedIn" title="View Shichao An's profile on LinkedIn"></a>&nbsp;<a href="https://plus.google.com/u/0/107766327172077396045/"><img src="/_static/googleplus_icon.png" width="42px" alt="Google+" title="View Shichao An's profile on Google+"></a>&nbsp;<a href="https://github.com/shichao-an"><img src="/_static/github_icon.png" width="42px" alt="GitHub" title="View Shichao An's GitHub page"></a>
+            <a href="https://www.facebook.com/shichao.an.1"><img src="/_static/facebook_icon.png" width="42px" alt="Facebook" title="View Shichao An's profile on Facebook"/></a>&nbsp;<a href="http://www.linkedin.com/in/shichaoan"><img src="/_static/linkedin_icon.png" width="42px" alt="LinkedIn" title="View Shichao An's profile on LinkedIn"></a>&nbsp;<a href="https://plus.google.com/u/0/107766327172077396045/"><img src="/_static/googleplus_icon.png" width="42px" alt="Google+" title="View Shichao An's profile on Google+"></a>&nbsp;<a href="https://github.com/shichao-an"><img src="/_static/github_icon.png" width="42px" alt="GitHub" title="View Shichao An's GitHub page"></a>&nbsp;<a href="https://twitter.com/moleculea"><img src="/_static/twitter_icon.png" width="42px" alt="Twitter" title="View Shichao An's Twitter page"></a>
 
 
 .. toctree::
