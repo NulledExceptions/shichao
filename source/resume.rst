@@ -94,18 +94,12 @@ Skills
 
 .. container:: section
 
-    Development Tools
+    Development Tools and Software
 
 .. container:: sublist
-    
-    * Vim, Sublime Text, Git/GitHub
 
-.. container:: section
-
-    Software, Web Development, and Database
-
-.. container:: sublist
-    
+    * **Text editor**: Vim
+    * **Version control**: Git, GitHub
     * **Document**: LaTeX, Sphinx
     * **Frameworks**: Django, CodeIgniter, WordPress
     * **Database**: MySQL, Oracle, MongoDB, Redis
@@ -119,7 +113,6 @@ Certifications
 
     * Red Hat Certified System Administrator (RHCSA)
     * Red Hat Certified Engineer (RHCE)
-
 
 Activities
 ==========
