@@ -102,7 +102,7 @@ Skills
     * **Version control**: Git, GitHub
     * **Document**: LaTeX, Sphinx
     * **Frameworks**: Django, CodeIgniter, WordPress
-    * **Database**: MySQL, Oracle, MongoDB, Redis
+    * **Databases**: MySQL, Oracle, MongoDB, Redis
     * **Testing**: Selenium, Nose, Tox
     * **Configuration**: Puppet
     * **Services**: Amazon Web Services, Travis CI
