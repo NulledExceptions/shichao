@@ -2,6 +2,14 @@ Projects
 ********
 .. container:: section
 
+    `Adium Shell <https://github.com/shichao-an/adium-sh>`_
+
+.. container:: sublist
+
+    * Shell utilities and Python wrapper for Adium
+
+.. container:: section
+
     `Twitter Photos <https://github.com/shichao-an/twitter-photos>`_
 
 .. container:: sublist
