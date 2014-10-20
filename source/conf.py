@@ -104,7 +104,7 @@ html_theme_options = {
         ('Projects', 'projects'),
         ('Contact', 'contact'),
         ('About', 'about'),
-        ('Blog', 'http://blog.shichao-an.info/', True),
+        ('Blog', 'http://blog.shichao.io/', True),
     ],
     'navbar_pagenav': False,
     'source_link_position': "footer",
