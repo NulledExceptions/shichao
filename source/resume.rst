@@ -1,4 +1,3 @@
-
 Resume
 ******
 
@@ -80,8 +79,8 @@ Skills
 
 .. container:: sublist
     
-    * **Proficient**: Python, C, Bash scripting
-    * **Intermediate**: JavaScript, Java, PHP, Perl
+    * Proficient: Python, C, Bash scripting
+    * Intermediate: JavaScript, Java, PHP, Perl
 
 .. container:: section
 
@@ -98,14 +97,14 @@ Skills
 
 .. container:: sublist
 
-    * **Text editor**: Vim
-    * **Version control**: Git, GitHub
-    * **Document**: LaTeX, Sphinx
-    * **Frameworks**: Django, CodeIgniter, WordPress
-    * **Databases**: MySQL, Oracle, MongoDB, Redis
-    * **Testing**: Selenium, Nose, Tox
-    * **Configuration**: Puppet
-    * **Services**: Amazon Web Services, Travis CI
+    * Text editor: Vim
+    * Version control: Git, GitHub
+    * Document: LaTeX, Sphinx
+    * Frameworks: Django, CodeIgniter, WordPress
+    * Databases: MySQL, Oracle, MongoDB, Redis
+    * Testing: Selenium, Nose, Tox
+    * Configuration: Puppet
+    * Services: Amazon Web Services, Travis CI
 
 Certifications
 ==============
