@@ -34,7 +34,7 @@ Projects
 
 .. container:: section
 
-    `GeoPort <http://geoport.co>`_
+    `GeoPort <https://github.com/shichao-an/GeoPort>`_
 
 .. container:: sublist
 
