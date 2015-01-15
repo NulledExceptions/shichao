@@ -15,8 +15,6 @@ I am enthusiastic about Free and Open Source Software (FOSS):
 
 * Python
 
-* `MediaWiki <http://www.mediawiki.org/wiki/MediaWiki>`_ and `Wikipedia <http://www.wikipedia.org/>`_
-
 Meetups
 =======
 I attend the following meetup groups:
