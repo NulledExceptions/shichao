@@ -31,6 +31,14 @@ Experience
 ==========
 .. container:: section
 
+    `Fuhu <http://www.fuhu.com/>`_
+
+.. container:: sublist
+
+    * System Administrator
+
+.. container:: section
+
     `Courant Institute of Mathematical Sciences <http://www.cims.nyu.edu/>`_, New York University
 
 .. container:: sublist
