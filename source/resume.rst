@@ -55,22 +55,6 @@ Experience
 
 .. container:: section
 
-    China Unicom
-
-.. container:: sublist
-    
-    * Intern, Operation and Maintenance Department
-
-.. container:: section
-
-    China International Telecommunication Construction Corporation
-
-.. container:: sublist
-    
-    * Network Administrator Intern
-
-.. container:: section
-
     `iBeiKe.com <http://www.ibeike.com/>`_
 
 .. container:: sublist
@@ -87,8 +71,7 @@ Skills
 
 .. container:: sublist
     
-    * Proficient: Python, C, Bash scripting
-    * Intermediate: JavaScript, Java, PHP, Perl
+    * Python, C, Go, Ruby, Bash scripting
 
 .. container:: section
 
@@ -101,18 +84,17 @@ Skills
 
 .. container:: section
 
-    Development Tools and Software
+    Software and Technologies
 
 .. container:: sublist
 
     * Text editor: Vim
-    * Version control: Git, GitHub
+    * Version control: Git
     * Document: LaTeX, Sphinx
-    * Frameworks: Django, CodeIgniter, WordPress
-    * Databases: MySQL, Oracle, MongoDB, Redis
-    * Testing: Selenium, Nose, Tox
-    * Configuration: Puppet
-    * Services: Amazon Web Services, Travis CI
+    * Web frameworks: Django
+    * Databases: MySQL, MongoDB, Redis
+    * Configuration management: SaltStack
+    * Cloud services: Amazon Web Services
 
 Certifications
 ==============
