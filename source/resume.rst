@@ -103,15 +103,5 @@ Certifications
     * Red Hat Certified System Administrator (RHCSA)
     * Red Hat Certified Engineer (RHCE)
 
-Activities
-==========
-.. container:: section
-
-    `Seminar on Wikipedia, iBeiKe Wiki and Internet resources <http://home.ibeike.com/index.php?option=com_content&view=article&id=423:2010-12-10-08-48-03&catid=59:2010-10-02-19-20-39&Itemid=217>`_ at USTB (Beijing, China)
-
-.. container:: sublist
-
-    Speaker
-
 .. toctree::
    :maxdepth: 2
