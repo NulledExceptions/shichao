@@ -6,7 +6,7 @@ Projects
 
 .. container:: sublist
 
-    * A CLI tool to get files from the connected GitLab repository using API
+    * CLI tool to get files from the connected GitLab repository using API
     * Implemented in Bash with completion support
 
 .. container:: section
@@ -47,7 +47,7 @@ Projects
 
 .. container:: sublist
 
-    * A simple RSA cryptosystem in C as a project for the course *Applied Cryptography*
+    * Simple RSA cryptosystem in C as a project for the course *Applied Cryptography*
 
 .. container:: section
 
