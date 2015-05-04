@@ -6,7 +6,8 @@ Projects
 
 .. container:: sublist
 
-    * CLI tool to get files from the connected GitLab repository using API.
+    * A CLI tool to get files from the connected GitLab repository using API
+    * Implemented in Bash with completion support
 
 .. container:: section
 
@@ -39,6 +40,14 @@ Projects
 .. container:: sublist
 
     * Command-line tool to obtain sound power in real time for machines that ship with audio input devices
+
+.. container:: section
+
+    `RSA <https://github.com/shichao-an/rsa>`_
+
+.. container:: sublist
+
+    * A simple RSA cryptosystem in C as a project for the course *Applied Cryptography*
 
 .. container:: section
 

@@ -60,8 +60,6 @@ Experience
 .. container:: sublist
 
     * Former Vice-Director, Department of Network
-    * Webmaster of `iBeiKe Wiki <http://wiki.ibeike.com/>`_
-    * Programmer
 
 Skills
 ======
@@ -92,9 +90,10 @@ Skills
     * Version control: Git
     * Document: LaTeX, Sphinx
     * Web frameworks: Django
-    * Databases: MySQL, MongoDB, Redis
+    * Databases: MySQL, MongoDB
     * Configuration management: SaltStack
     * Cloud services: Amazon Web Services
+    * Others: Docker, Vagrant
 
 Certifications
 ==============
