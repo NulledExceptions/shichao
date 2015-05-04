@@ -103,7 +103,6 @@ html_theme_options = {
         ('Resume', 'resume'),
         ('Projects', 'projects'),
         ('Contact', 'contact'),
-        ('About', 'about'),
         ('Blog', 'https://blog.shichao.io/', True),
     ],
     'navbar_pagenav': False,

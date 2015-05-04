@@ -1,28 +1,18 @@
-.. doc documentation master file, created by
-    sphinx-quickstart on Fri Mar 15 19:30:49 2013.
-    You can adapt this file completely to your liking, but it should at least
-    contain the root `toctree` directive.
+Shichao An
+**********
 
-Welcome
-*******
-I am Shichao An, a graduate student in Computer Science at the `Courant Institute of Mathematical Sciences <http://www.cims.nyu.edu/>`_, `New York University <http://www.nyu.edu>`_. 
+Self Introduction
+=================
 
-Interest
-========
-I am enthusiastic about Free and Open Source Software (FOSS):
+I'm Shichao An, a computer science graduate from the `New York University <https://www.nyu.edu/>`_. Enthusiastic about free and open source software, I am very active on `GitHub <https://github.com/shichao-an>`_. I regularly use Fedora, OS X and Ubuntu.
 
-* GNU/Linux
+Currently, I'm working as a system administrator. I find it helpful to learn the internals of operating systems and networks having such a infrastructure role as a beginner. It's also fun to work on site reliability and system engineering, which makes me understand how things work and provides solid background and inspirational motives for writing better programs.
 
-* Python
+Technical Interest
+==================
 
-Meetups
-=======
-I attend the following meetup groups:
-
-* `New York Python Meetup Group <http://www.meetup.com/nycpython/>`_
-
-* `New York Linux Users Group <http://www.nylug.org/home/index.shtml>`_
-
+* UNIX and Linux
+* Python, Ruby and Go
 
 .. toctree::
     :maxdepth: 2

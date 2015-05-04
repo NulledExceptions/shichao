@@ -2,6 +2,22 @@ Projects
 ********
 .. container:: section
 
+    `uhuf <https://github.com/shichao-an/uhuf>`_
+
+.. container:: sublist
+
+    * CLI tool to get files from the connected GitLab repository using API.
+
+.. container:: section
+
+    `Homura <https://github.com/shichao-an/homura>`_
+
+.. container:: sublist
+
+    * Python downloader with progress
+
+.. container:: section
+
     `Adium Shell <https://github.com/shichao-an/adium-sh>`_
 
 .. container:: sublist

@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # For build
 sphinx-build -a -b html -d build/doctrees source build/html
