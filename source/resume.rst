@@ -88,7 +88,7 @@ Skills
 
     * Text editor: Vim
     * Version control: Git
-    * Document: LaTeX, Sphinx
+    * Document: LaTeX, reStructuredText, Markdown
     * Web frameworks: Django
     * Databases: MySQL, MongoDB
     * Configuration management: SaltStack
