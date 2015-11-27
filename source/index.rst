@@ -1,8 +1,8 @@
 Home
 ****
 
-Self Introduction
-=================
+Introduction
+============
 
 I'm Shichao An, a computer science graduate from the `New York University <https://www.nyu.edu/>`_. Enthusiastic about free and open source software, I am very active on `GitHub <https://github.com/shichao-an>`_. I regularly use Fedora, OS X and Ubuntu.
 
