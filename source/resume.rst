@@ -9,13 +9,13 @@ Education
 =========
 .. container:: section
 
-    New York University, 2012 -- present
+    New York University, 2012 -- 2014
 
 .. container:: subtitle
 
     M.S. Candidate in Computer Science
 
-.. container:: subtitle 
+.. container:: subtitle
 
     Courses: Programming Languages, Fundamental Algorithms, Operating Systems, Database Systems, Cloud Computing, Open Source Tools, Multicore Processors
 
@@ -42,7 +42,7 @@ Experience
     `Courant Institute of Mathematical Sciences <http://www.cims.nyu.edu/>`_, New York University
 
 .. container:: sublist
-    
+
     * Teaching Assistant
 
 .. container:: section
@@ -50,7 +50,7 @@ Experience
     `SIGNL <http://signl.com/>`_
 
 .. container:: sublist
-    
+
     * Software Development Intern
 
 .. container:: section
@@ -68,7 +68,7 @@ Skills
     Programming Languages
 
 .. container:: sublist
-    
+
     * Python, C, Go, Ruby, Bash scripting
 
 .. container:: section
@@ -91,7 +91,7 @@ Skills
     * Document: LaTeX, reStructuredText, Markdown
     * Web frameworks: Django
     * Databases: MySQL, MongoDB
-    * Configuration management: SaltStack
+    * Configuration management: Puppet, SaltStack
     * Cloud services: Amazon Web Services
     * Others: Docker, Vagrant
 
