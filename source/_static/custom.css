@@ -78,3 +78,8 @@ footer {
   border-top: 0 !important;
   color: rgba(150,150,150,0.75);
 }
+
+.navbar-default .navbar-brand {
+  color: #fff;
+  font-weight: 300;
+}
