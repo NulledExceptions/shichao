@@ -1,15 +1,21 @@
 Home
 ****
 
-Introduction
-============
+Info
+====
 
-I'm Shichao An, a computer science graduate from the `New York University <https://www.nyu.edu/>`_. Enthusiastic about free and open source software, I am very active on `GitHub <https://github.com/shichao-an>`_. I regularly use Fedora, OS X and Ubuntu.
+* I'm Shichao An.
+* I'm enthusiastic about free and open source software.
+* I'm active on GitHub.
+* I regularly use OS X, Fedora and Ubuntu.
 
-Currently, I'm working as a system administrator. I find it helpful to learn the internals of operating systems and networks having such an infrastructure role as a beginner. It's also fun to work on site reliability and system engineering, which makes me understand how things work and provides solid background and inspirational motives for writing better programs.
+Intro
+=====
 
-Technical Interest
-==================
+I find it interesting to learn internals of operating systems and networks, because it's fun to understand how things work behind the scenes. As a site reliability engineer, I work on making large-scale complex systems reliable using DevOps and system engineering techniques. I think with in-depth knowledge in systems and a solid background in relevant fields, it would be confident to write better programs.
+
+Interest
+========
 
 * UNIX and Linux
 * Python, Ruby and Go

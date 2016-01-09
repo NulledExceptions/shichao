@@ -31,6 +31,14 @@ Experience
 ==========
 .. container:: section
 
+    `Uber <http://www.uber.com/>`_
+
+.. container:: sublist
+
+    * Software Engineer
+
+.. container:: section
+
     `Fuhu <http://www.fuhu.com/>`_
 
 .. container:: sublist
