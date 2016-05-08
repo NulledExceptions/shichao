@@ -13,7 +13,7 @@ Education
 
 .. container:: subtitle
 
-    M.S. Candidate in Computer Science
+    M.S. in Computer Science
 
 .. container:: subtitle
 
@@ -35,7 +35,7 @@ Experience
 
 .. container:: sublist
 
-    * Software Engineer
+    * Site Reliability Engineer
 
 .. container:: section
 
@@ -77,7 +77,7 @@ Skills
 
 .. container:: sublist
 
-    * Python, C, Go, Ruby, Bash scripting
+    * Python, C, Go, Ruby, Bash
 
 .. container:: section
 
