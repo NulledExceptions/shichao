@@ -26,7 +26,7 @@ Projects
 
     * Simple RSA cryptosystem in C as a project for the course *Applied Cryptography*
 
-* `Python and Parallel Programming <https://github.com/shichao-an/PPP>`_ (`report <http://www.shichao-an.info/_static/ppp.pdf>`_)
+* `Python and Parallel Programming <https://github.com/shichao-an/PPP>`_ (`report </_static/ppp.pdf>`_)
 
     * Compared and analyzed parallelism in CPU-bound, I/O-bound and memory-bound applications implemented with *threading*, *multiprocessing* of the standard library, and OpenMP/Cython
 

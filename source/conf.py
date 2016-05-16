@@ -10,7 +10,10 @@ html_theme_options = {
     'github_user': 'shichao-an',
     'github_repo': 'shichao',
     'github_button': False,
-    'extra_nav_links': {'Blog': 'https://blog.shichao.io'},
+    'extra_nav_links': {
+        'Blog': 'https://blog.shichao.io',
+        'GitHub': 'https://github.com/shichao-an',
+    },
     'sidebar_header': '#999',
 }
 html_sidebars = {
