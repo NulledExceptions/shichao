@@ -1,98 +1,56 @@
 Resume
 ******
 
-.. container:: subtitle
-
-    `Download </_static/shichao_an.pdf>`_
+`Download </_static/shichao_an.pdf>`_
 
 Education
 =========
-.. container:: section
 
-    New York University, 2012 -- 2014
+* **New York University**, 2012 -- 2014
 
-.. container:: subtitle
+    * M.S. in Computer Science
+    * Courses: Programming Languages, Fundamental Algorithms, Operating Systems, Database Systems, Cloud Computing, Open Source Tools, Multicore Processors
 
-    M.S. in Computer Science
+* **University of Science and Technology Beijing**, 2008 -- 2012
 
-.. container:: subtitle
-
-    Courses: Programming Languages, Fundamental Algorithms, Operating Systems, Database Systems, Cloud Computing, Open Source Tools, Multicore Processors
-
-.. container:: section
-
-    University of Science and Technology Beijing, 2008 -- 2012
-
-.. container:: subtitle
-
-    B.S. in Computer Science
+    * B.S. in Computer Science
 
 Experience
 ==========
-.. container:: section
 
-    `Uber <http://www.uber.com/>`_
-
-.. container:: sublist
+* `Uber <http://www.uber.com/>`_
 
     * Site Reliability Engineer
 
-.. container:: section
-
-    `Fuhu <http://www.fuhu.com/>`_
-
-.. container:: sublist
+* `Fuhu <http://www.fuhu.com/>`_
 
     * System Administrator
 
-.. container:: section
-
-    `Courant Institute of Mathematical Sciences <http://www.cims.nyu.edu/>`_, New York University
-
-.. container:: sublist
+* `New York University <http://www.nyu.edu/>`_
 
     * Teaching Assistant
 
-.. container:: section
-
-    `SIGNL <http://signl.com/>`_
-
-.. container:: sublist
+* `SIGNL <http://signl.com/>`_
 
     * Software Development Intern
 
-.. container:: section
-
-    `iBeiKe.com <http://www.ibeike.com/>`_
-
-.. container:: sublist
+* `iBeiKe.com <http://www.ibeike.com/>`_
 
     * Former Vice-Director, Department of Network
 
 Skills
 ======
-.. container:: section
 
-    Programming Languages
-
-.. container:: sublist
+* **Programming Languages**
 
     * Python, C, Go, Ruby, Bash
 
-.. container:: section
-
-    Operating Systems
-
-.. container:: sublist
+* **Operating Systems**
 
     * GNU/Linux (Fedora/RHEL/Ubuntu)
     * OS X
 
-.. container:: section
-
-    Software and Technologies
-
-.. container:: sublist
+* **Software and Technologies**
 
     * Text editor: Vim
     * Version control: Git
@@ -105,10 +63,9 @@ Skills
 
 Certifications
 ==============
-.. container:: section
 
-    * Red Hat Certified System Administrator (RHCSA)
-    * Red Hat Certified Engineer (RHCE)
+* Red Hat Certified System Administrator (RHCSA)
+* Red Hat Certified Engineer (RHCE)
 
 .. toctree::
    :maxdepth: 2
