@@ -29,4 +29,4 @@ html_static_path = ['_static']
 templates_path = ['_templates']
 master_doc = 'index'
 project = 'Shichao An'
-copyright = '2016 Shichao An'
+copyright = ' 2016 Shichao An'
